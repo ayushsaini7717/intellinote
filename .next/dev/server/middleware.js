@@ -1,0 +1,10 @@
+var R=require("./chunks/[turbopack]_runtime.js")("server/middleware.js")
+R.c("server/chunks/7b996_next_2b458dcf._.js")
+R.c("server/chunks/7b996_@opentelemetry_api_build_esm_03b32748._.js")
+R.c("server/chunks/7b996_@supabase_realtime-js_dist_module_8acc9e9a._.js")
+R.c("server/chunks/7b996_@supabase_storage-js_dist_module_ebdf9ca6._.js")
+R.c("server/chunks/7b996_@supabase_auth-js_dist_module_4b33505e._.js")
+R.c("server/chunks/7b996_d8978d22._.js")
+R.c("server/chunks/[root-of-the-server]__f683e707._.js")
+R.m("[project]/assessments/notesAi/node_modules/next/dist/esm/build/templates/middleware.js { INNER_MIDDLEWARE_MODULE => \"[project]/assessments/notesAi/proxy.ts [middleware] (ecmascript)\" } [middleware] (ecmascript)")
+module.exports=R.m("[project]/assessments/notesAi/node_modules/next/dist/esm/build/templates/middleware.js { INNER_MIDDLEWARE_MODULE => \"[project]/assessments/notesAi/proxy.ts [middleware] (ecmascript)\" } [middleware] (ecmascript)").exports

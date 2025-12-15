@@ -1,0 +1,11 @@
+var R=require("../../../../chunks/[turbopack]_runtime.js")("server/app/api/ai/answer/route.js")
+R.c("server/chunks/7b996_next_ca9615d9._.js")
+R.c("server/chunks/7b996_@opentelemetry_api_build_esm_11b6cc87._.js")
+R.c("server/chunks/7b996_@supabase_realtime-js_dist_module_c1cf56be._.js")
+R.c("server/chunks/7b996_@supabase_storage-js_dist_module_9de9a0fe._.js")
+R.c("server/chunks/7b996_@supabase_auth-js_dist_module_1722a3d8._.js")
+R.c("server/chunks/7b996_d35c25e1._.js")
+R.c("server/chunks/[root-of-the-server]__da0c7df1._.js")
+R.c("server/chunks/fe640_notesAi__next-internal_server_app_api_ai_answer_route_actions_59c992ec.js")
+R.m("[project]/assessments/notesAi/node_modules/next/dist/esm/build/templates/app-route.js { INNER_APP_ROUTE => \"[project]/assessments/notesAi/app/api/ai/answer/route.ts [app-route] (ecmascript)\" } [app-route] (ecmascript)")
+module.exports=R.m("[project]/assessments/notesAi/node_modules/next/dist/esm/build/templates/app-route.js { INNER_APP_ROUTE => \"[project]/assessments/notesAi/app/api/ai/answer/route.ts [app-route] (ecmascript)\" } [app-route] (ecmascript)").exports
