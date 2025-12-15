@@ -120,9 +120,40 @@ export default function HomePage() {
               <Brain className="h-5 w-5 text-primary" />
               <span className="font-medium">IntelliNote</span>
             </div>
+
+            <div className="flex flex-wrap items-center gap-4 text-sm text-muted-foreground">
+              <span className="font-medium text-foreground">
+                Ayush Saini
+              </span>
+
+              <Link
+                href="https://github.com/ayushsaini7717/intellinote"
+                target="_blank"
+                className="hover:text-primary transition-colors"
+              >
+                GitHub
+              </Link>
+
+              <Link
+                href="https://intellinote-woad.vercel.app/"
+                target="_blank"
+                className="hover:text-primary transition-colors"
+              >
+                Live Demo
+              </Link>
+
+              <Link
+                href="https://www.linkedin.com/in/ayush-saini-85295b22a"
+                target="_blank"
+                className="hover:text-primary transition-colors"
+              >
+                LinkedIn
+              </Link>
+            </div>
           </div>
         </div>
       </footer>
+
     </div>
   )
 }
@@ -165,3 +196,4 @@ const features = [
     icon: Brain,
   },
 ]
+
